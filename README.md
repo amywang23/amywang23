@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amy and I am a freshman at the University of Michigan majoring in CS
 - I went to high school at TJHSST
-- 👀 I’m interested in coding and developing websites as well as apps
+- 👀 I’m interested in developing websites as well as apps
+- Looking to explore SWE roles
 - 📫 How to reach me: amywangc@umich.edu
 - Feel free to contact me about opportunities
 
