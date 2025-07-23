@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amy and I am a junior at the University of Michigan majoring in Computer Science
+- 👋 Hi, I’m Amy and I am a rising senior at the University of Michigan majoring in Computer Science
 - I went to high school at TJHSST
 - 👀 I’m interested in developing websites as well as apps
 - Looking to explore SWE roles
